@@ -1,0 +1,139 @@
+Master List for HackWithInfy (Striver + Pattern Revision)
+1️⃣ Prefix Sum + HashMap (Most Important)
+
+Must Do
+
+Subarray Sum Equals K
+
+Longest Subarray with Sum K
+
+Subarrays Divisible by K
+
+Continuous Subarray Sum
+
+Count Number of Nice Subarrays
+
+Count Subarrays with Equal 0s and 1s
+
+Maximum Size Subarray Sum Equals K
+
+Binary Subarrays With Sum
+
+Range Sum Query (Prefix concept)
+
+Difference Array – Range Addition
+
+Why important?
+HackWithInfy me array transformation + queries bahut aate hain.
+
+2️⃣ Sliding Window + HashMap
+
+Longest Substring Without Repeating Characters
+
+Minimum Window Substring
+
+Find All Anagrams
+
+Fruit Into Baskets
+
+Longest Repeating Character Replacement
+
+Subarrays with K Distinct
+
+Maximum Sum Subarray of Size K
+
+Smallest Subarray with Given Sum
+
+3️⃣ Binary Search (on Answer)
+
+Koko Eating Bananas
+
+Capacity to Ship Packages
+
+Aggressive Cows
+
+Minimum Days to Make Bouquets
+
+Split Array Largest Sum
+
+Painter’s Partition Problem
+
+Search in Rotated Sorted Array
+
+Find Peak Element
+
+HackWithInfy loves this pattern.
+
+4️⃣ Graph (BFS/DFS) — VERY IMPORTANT
+
+Number of Islands
+
+Rotting Oranges
+
+Flood Fill
+
+01 Matrix
+
+Shortest Path in Binary Matrix
+
+Course Schedule (Topo)
+
+Course Schedule II
+
+Detect Cycle in Directed Graph
+
+Bipartite Graph
+
+Network Delay Time (Dijkstra basic)
+
+5️⃣ Tree (High Weight)
+
+Maximum Depth
+
+Diameter of Binary Tree
+
+Binary Tree Level Order
+
+Right Side View
+
+Lowest Common Ancestor
+
+Distance K from Target
+
+Path Sum I
+
+Path Sum II
+
+Flatten Binary Tree
+
+Construct Tree from Traversals
+
+6️⃣ Heap / Greedy
+
+Top K Frequent Elements
+
+Kth Largest Element
+
+Task Scheduler
+
+Merge K Sorted Lists
+
+Meeting Rooms II
+
+Minimum Platforms
+
+Gas Station
+
+Jump Game
+
+7️⃣ Backtracking (only core)
+
+Subsets
+
+Subsets II
+
+Permutations
+
+Combination Sum
+
+Combination Sum II
